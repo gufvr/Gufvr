@@ -1,6 +1,6 @@
 <h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo websites e aplicações Front-End.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="[link da sua faculdade](https://www.linkedin.com/school/estacio/)">Universidade Estácio de Sá (UNESA)</a>.
 - 💼 &nbsp; Trabalhando como **Analista de suporte** na <a href="[LINK DA EMPRESA](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Aorganization%3A10388147&keywords=eduzz&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=ec0c4529-a62e-457f-b2b4-e787aafdbefa&sid=%3AdF)">Eduzz</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Typescript**.
