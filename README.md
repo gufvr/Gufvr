@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=Gufvr&color=006bed)
 
 <h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
 
