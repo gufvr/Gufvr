@@ -1,11 +1,22 @@
-<h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
+### Oii devs 👋
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo websites e aplicações Front-End.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="[link da sua faculdade](https://www.linkedin.com/school/estacio/)">Universidade Estácio de Sá (UNESA)</a>.
-- 💼 &nbsp; Trabalhando como **Analista de suporte** na <a href="[LINK DA EMPRESA](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Aorganization%3A10388147&keywords=eduzz&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=ec0c4529-a62e-457f-b2b4-e787aafdbefa&sid=%3AdF)">Eduzz</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Typescript**.
+Explorando novas tecnologias e desenvolvendo websites e aplicações Front-End.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **GUSS** {
+ val name = "Gustavo V. Favero"
+ val acknowledgements = "Desenvolvimento Web"
+ 
+ val primarySkillset = "Aprendendo mais sobre Typescript"
+ val languages = listOf("Python", "JavaScript", "React", "React Native", "NexJS", "Jest") 
+}
+```
+
+## **Linguagens e Ferramentas:**  
 
 **Aplicações e Dados**
 
@@ -33,10 +44,17 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-[![card](https://github-readme-stats.vercel.app/api?username=Gufvr&theme=dracula&show_icons=true)](https://github.com/Gufvr/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Gufvr&hide=html&layout=compact=true&theme=dracula)](https://github.com/Gufvr/github-readme-stats)
 
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuFvr&theme=rose_pine&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuFvr&show_icons=true&theme=rose_pine&line_height=27" alt="**Gustavo** github stats"/>
+</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guss-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
