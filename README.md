@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aeb0b0&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aeb0b0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Favero;I+graduated+from+ETEC+Fernando+Prestes+in+Sorocaba;I'm+21+years+old;I'm+from+Sorocaba,+SP;I'm+a+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=dark)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4d9d9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Favero;I+graduated+from+ETEC+Fernando+Prestes+in+Sorocaba;I'm+21+years+old;I'm+from+Sorocaba,+SP;I'm+a+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&hide_progress=true&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=dark)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=guFvr&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
