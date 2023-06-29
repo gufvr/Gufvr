@@ -1,11 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aeb0b0&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Favero;I+graduated+from+ETEC+Fernando+Prestes+in+Sorocaba;I'm+21+years+old;I'm+from+Sorocaba,+SP;I'm+a+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aeb0b0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Favero;I+graduated+from+ETEC+Fernando+Prestes+in+Sorocaba;I'm+21+years+old;I'm+from+Sorocaba,+SP;I'm+a+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gufvr&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&hide_progress=true&theme=dark)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guFvr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guFvr&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -39,4 +41,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aeb0b0&height=120&section=footer"/>
