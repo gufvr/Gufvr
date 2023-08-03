@@ -1,17 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f06583&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f06583&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Favero;I+graduated+from+ETEC+Fernando+Prestes;I'm+21+years+old;I'm+from+Sorocaba,+SP;I'm+a+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Favero;I+graduated+from+ETEC+Fernando+Prestes;I'm+22+years+old;I'm+from+Sorocaba,+SP;I'm+a+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&hide_progress=true&theme=dracula" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&hide_progress=true&theme=light" alt="Top Langs">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=light" alt="Anurag's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guFvr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guFvr&theme=light&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Main skills:
@@ -39,4 +39,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f06583&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
