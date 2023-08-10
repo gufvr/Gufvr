@@ -1,17 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6E96&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Favero;I+graduated+from+ETEC+Fernando+Prestes;I'm+22+years+old;I'm+from+Sorocaba,+SP;I'm+a+Front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42FA6E&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Favero;I+graduated+from+ETEC+Fernando+Prestes;I'm+22+years+old;I'm+from+Sorocaba,+SP;I'm+a+Front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&hide_progress=true&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&hide_progress=true&theme=dracula" alt="Top Langs">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guFvr&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guFvr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Main skills:
@@ -31,7 +31,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
-### Studying in this moment:
+### Studying at this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -39,4 +39,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6E96&height=120&section=footer"/>
