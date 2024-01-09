@@ -16,16 +16,26 @@
 
 
 <div align="center">
-  <h3>⚡Main Skills:</h3>
+  <h3>⚡ Main Skills:</h3>
   <a href="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,react,nextjs,angular">
     <img alt="My Skills" src="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,react,nextjs,angular" />
   </a>
 </div>
 
 <div align="center">
-    <h3>🔧Tools:</h3>
+    <h3>🔧 Tools:</h3>
   <a href="https://skillicons.dev/icons?i=vscode,git,github,discord,figma">
     <img alt="My Skills" src="https://skillicons.dev/icons?i=vscode,git,github,discord,figma" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🌐 Social:</h3>
+  <a href="https://www.linkedin.com/in/gustavo-favero-b68558202/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+  </a>
+  <a href="https://pt.stackoverflow.com/users/304735/gufvr">
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 </div>
 
