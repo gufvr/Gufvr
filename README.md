@@ -31,7 +31,7 @@
 
 <div align="center">
   <h3>🌐 Social:</h3>
-  <a href="https://www.linkedin.com/in/gustavo-favero-b68558202/">
+  <a href="https://rb.gy/vxs6n5">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
   <a href="https://pt.stackoverflow.com/users/304735/gufvr">
