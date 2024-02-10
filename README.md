@@ -13,7 +13,7 @@
 <div align="center">
   <h3>⚡ Main Skills:</h3>
   <a href="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,react,nextjs,angular">
-    <img alt="My Skills" src="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,react,nextjs,angular" />
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,react,nextjs" />
   </a>
 </div>
 
