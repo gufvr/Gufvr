@@ -23,9 +23,14 @@
 ## Sobre mim
 
 <p>  
- 🤓 &emsp; Estudante de Análise e Desenvolvimento de Sistemas <br/><br/>
- ❤️ &emsp; Atualmente no desenvolvimento de API RESTful para um Sistema de Blog em Node.js <br/><br/>
- 📧 &emsp; Entre em contato comigo a qualquer momento: gustavo.vfavero@gmail.com<br/><br/>
+Tenho formação técnica em Análise e Desenvolvimento de Sistemas pela ETEC, tendo passado por matérias voltadas ao Java, PHP, C#, Orientação a Objetos, SQL Server e muito mais! 
+Conforme evoluia no curso, me interessei por participar de boot-camps, lives e bate-papos com outros profissionais e estudantes da área. <br/><br/>
+Após a finalização do curso, me aventurei no mundo da arte, onde me deparei novamente com estudos a respeito de UX/UI, o que me levou a reacender a chama pelo desenvovimento web.
+
+Atualmente, estou no processo para me formar em Análise e Desenvolvimento de Sistemas pela Faculdade digital Descomplica, adquirindo ainda mais conhecimentos e me especializando em todo o universo do desenvolvimento web. <br><br/>
+
+⚫ Atualmente no desenvolvimento de API RESTful para um Sistema de Blog em Node.js <br/><br/>
+⚫ Entre em contato comigo a qualquer momento: gustavo.vfavero@gmail.com<br/><br/>
 </p>
 
 ## Tecnologias e ferramentas que utilizo e estudo
