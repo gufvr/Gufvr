@@ -1,16 +1,12 @@
-<h3 align="center">
-        <samp>&gt; Hey There! I am
+<h1 align="center">
+        <samp>&gt; Olá! Me chamo
                 <b>Gustavo Favero</a></b>
         </samp>
-</h3>
+</h1>
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a Web developer from <b>Brazil</b> 」
-    <br>
-  </samp>
-</p>
+<h3 align="center">
+        「 Com mais de 4 anos de estudos, sigo aprendendo a cada dia para me tornar um profissional exemplar e dedicado a energizar minha carreira no desenvolvimento web. 」
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-vfavero/" target="_blank">
@@ -24,21 +20,27 @@
  </a>
 </p>
 
-# About me
+## Sobre mim
 
 <p>
  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: gustavo.vfavero@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/gufvr/gufvr/issues)
+ 🤓 &emsp; Estudante de Análise e Desenvolvimento de Sistemas <br/><br/>
+ ❤️ &emsp; Atualmente no desenvolvimento de API RESTful para um Sistema de Blog em Node.js <br/><br/>
+ 📧 &emsp; Entre em contato comigo a qualquer momento: gustavo.vfavero@gmail.com<br/><br/>
+ 💬 &emsp; Pergunte-me sobre qualquer coisa [clicando aqui](https://github.com/gufvr/gufvr/issues)
 
 </p>
 
-<table>
+## Tecnologias e ferramentas que utilizo e estudo
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,graphql,kotlin,npm,vscode,docker)](https://skillicons.dev)
+
+## Tecnologias e ferramentas que já tive contato
+[![My Skills](https://skillicons.dev/icons?i=java,bootstrap,androidstudio,aws,azure,cpp,cs,dotnet,elixir,electron,figma,ai,yarn,)](https://skillicons.dev)
+
+<table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=github_dark_dimmed" alt="Anurag's GitHub stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&hide_progress=true&theme=github_dark_dimmed" alt="Top Langs"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=github_dark_dimmed" alt="gufvr's GitHub stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&layout=compact&theme=github_dark_dimmed"></td>
   </tr>
 </table>
