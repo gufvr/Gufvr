@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-        「 Com mais de 4 anos de estudos, sigo aprendendo a cada dia para me tornar um profissional exemplar e dedicado a energizar minha carreira no desenvolvimento web. 」
+        「 Com mais de 4 anos de estudos, sigo aprendendo a cada dia para me tornar um profissional exemplar e dedicado a energizar minha carreira no desenvolvimento web! 」
 </h3>
 
 <p align="center">
@@ -22,9 +22,7 @@
 
 ## Sobre mim
 
-<p>
- <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding gif" />
-  
+<p>  
  🤓 &emsp; Estudante de Análise e Desenvolvimento de Sistemas <br/><br/>
  ❤️ &emsp; Atualmente no desenvolvimento de API RESTful para um Sistema de Blog em Node.js <br/><br/>
  📧 &emsp; Entre em contato comigo a qualquer momento: gustavo.vfavero@gmail.com<br/><br/>
@@ -33,6 +31,7 @@
 </p>
 
 ## Tecnologias e ferramentas que utilizo e estudo
+       
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,graphql,kotlin,npm,vscode,docker)](https://skillicons.dev)
 
 ## Tecnologias e ferramentas que já tive contato
