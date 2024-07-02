@@ -26,20 +26,18 @@
  🤓 &emsp; Estudante de Análise e Desenvolvimento de Sistemas <br/><br/>
  ❤️ &emsp; Atualmente no desenvolvimento de API RESTful para um Sistema de Blog em Node.js <br/><br/>
  📧 &emsp; Entre em contato comigo a qualquer momento: gustavo.vfavero@gmail.com<br/><br/>
- 💬 &emsp; Pergunte-me sobre qualquer coisa [clicando aqui](https://github.com/gufvr/gufvr/issues)
-
 </p>
 
 ## Tecnologias e ferramentas que utilizo e estudo
        
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,graphql,kotlin,npm,vscode,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,graphql,kotlin,npm,vscode,docker,git,github)](https://skillicons.dev)
 
 ## Tecnologias e ferramentas que já tive contato
-[![My Skills](https://skillicons.dev/icons?i=java,bootstrap,androidstudio,aws,azure,cpp,cs,dotnet,elixir,electron,figma,ai,yarn,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,bootstrap,androidstudio,aws,azure,cpp,cs,dotnet,elixir,electron,figma,ai,yarn,idea)](https://skillicons.dev)
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=github_dark_dimmed" alt="gufvr's GitHub stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&layout=compact&theme=github_dark_dimmed"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gufvr&show_icons=true&theme=midnight-purple" alt="gufvr's GitHub stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gufvr&layout=compact&theme=midnight-purple"></td>
   </tr>
 </table>
