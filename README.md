@@ -1,11 +1,11 @@
 <h1 align="center">
-        <samp>&gt; Olá! Me chamo
+        <samp>&gt; Hello! My name is
                 <b>Gustavo Favero</a></b>
         </samp>
 </h1>
 
 <h3 align="center">
-        「 Com mais de 4 anos de estudos, sigo aprendendo a cada dia para me tornar um profissional exemplar e dedicado a energizar minha carreira no desenvolvimento web! 」
+        「 With more than 4 years of studies, I continue to learn every day to become an exemplary professional dedicated to energizing my career in web development! 」
 </h3>
 
 <p align="center">
@@ -20,22 +20,22 @@
  </a>
 </p>
 
-## Sobre mim
+## About me
 
 <p>  
-Possuo formação técnica em Análise e Desenvolvimento de Sistemas pela ETEC, tendo passado por matérias voltadas ao Java, PHP, C#, Orientação a Objetos, SQL Server e muito mais! <br/><br/>
+I have technical degree in Systems Analysis and Development from ETEC, having studied subjects focused on Java, PHP, C#, Object Orientation, SQL Server and much more! <br/><br/>
 
-Atualmente, estou no processo para me formar em Análise e Desenvolvimento de Sistemas pela Faculdade digital Descomplica, adquirindo ainda mais conhecimentos e me especializando em todo o universo do desenvolvimento web. <br><br/>
+Currently, I am in the process of graduating in Systems Analysis and Development from Faculdade digital Descomplica, acquiring even more knowledge and specializing in the entire universe of web development. <br><br/>
 
-• Atualmente no desenvolvimento de API RESTful para um Sistema de Blog em Node.js <br/><br/>
-• Entre em contato comigo a qualquer momento: gustavo.vfavero@gmail.com<br/><br/>
+• Currently developing a RESTful API for a Blog System in Node.js <br/><br/>
+• Reach me anytime: gustavo.vfavero@gmail.com<br/><br/>
 </p>
 
-## Tecnologias e ferramentas que utilizo e estudo
+## Technologies and tools I use and study
        
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,graphql,kotlin,npm,vscode,docker,git,github)](https://skillicons.dev)
 
-## Tecnologias e ferramentas que já tive contato
+## Technologies and tools that I have already had contact with
 [![My Skills](https://skillicons.dev/icons?i=java,bootstrap,androidstudio,aws,azure,cpp,cs,dotnet,elixir,electron,figma,ai,yarn,idea)](https://skillicons.dev)
 
 <table align="center">
