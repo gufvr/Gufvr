@@ -25,7 +25,7 @@
 <p>  
 I have technical degree in Systems Analysis and Development from ETEC, having studied subjects focused on Java, PHP, C#, Object Orientation, SQL Server and much more! <br/><br/>
 
-Currently, I am in the process of graduating in Systems Analysis and Development from Faculdade digital Descomplica, acquiring even more knowledge and specializing in the entire universe of web development. <br><br/>
+Currently, I am in the process of graduating in Systems Analysis and Development from digital college Descomplica, acquiring even more knowledge and specializing in the entire universe of web development. <br><br/>
 
 • Currently developing a RESTful API for a Blog System in Node.js <br/><br/>
 • Reach me anytime: gustavo.vfavero@gmail.com<br/><br/>
