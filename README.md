@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-        「 With more than 4 years of studies, I continue to learn every day to become an exemplary professional dedicated to energizing my career in web development! 」
+        「 Every day I strive to become an exemplary professional dedicated to boosting my career in web development! 」
 </h3>
 
 <p align="center">
