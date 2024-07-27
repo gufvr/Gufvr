@@ -1,6 +1,6 @@
 <h1 align="center">
         <samp>&gt; Hello! My name is
-                <b>Gustavo Favero</a></b>
+                <b>Gustavo, but you can call me Guss! </a></b>
         </samp>
 </h1>
 
@@ -27,7 +27,6 @@ I have technical degree in Systems Analysis and Development from ETEC, having st
 
 Currently, I am in the process of graduating in Systems Analysis and Development from digital college Descomplica, acquiring even more knowledge and specializing in the entire universe of web development. <br><br/>
 
-• Currently developing a RESTful API for a Blog System in Node.js <br/><br/>
 • Reach me anytime: gustavo.vfavero@gmail.com<br/><br/>
 </p>
 
