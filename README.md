@@ -32,10 +32,10 @@ Currently, I am in the process of graduating in Systems Analysis and Development
 
 ## Technologies and tools I use and study
        
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,graphql,kotlin,npm,vscode,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,graphql,npm,vscode,docker,git,github)](https://skillicons.dev)
 
 ## Technologies and tools that I have already had contact with
-[![My Skills](https://skillicons.dev/icons?i=java,bootstrap,androidstudio,aws,azure,cpp,cs,dotnet,elixir,electron,figma,ai,yarn,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,bootstrap,kotlin,androidstudio,aws,azure,cpp,cs,dotnet,elixir,electron,figma,ai,yarn,idea)](https://skillicons.dev)
 
 <table align="center">
   <tr>
