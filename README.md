@@ -1,12 +1,15 @@
-<h1 align="center">
-        <samp>&gt; Hello! My name is
-                <b>Gustavo, but you can call me Guss! </a></b>
-        </samp>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gufvr/f9376a798e80dc8c151f467051ba4e36/raw/eb378885971cf306c4287975597d1a9d3856a6f5/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Favero</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gufvr&color=yellow" alt="Profile views" /> </p>
 </h1>
 
 <h3 align="center">
-        「 Every day I strive to become an exemplary professional dedicated to boosting my career in web development! 」
+        Every day I strive to become an exemplary professional dedicated to boosting my career in web development!
 </h3>
+
+- 🔥 Web Developer
+- 🔭 I’m currently working at [Eduzz](https://github.com/eduzz)
+- Reach me anytime: gustavo.vfavero@gmail.com
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-vfavero/" target="_blank">
@@ -23,19 +26,13 @@
 ## About me
 
 <p>  
-I have technical degree in Systems Analysis and Development from ETEC, having studied subjects focused on Java, PHP, C#, Object Orientation, SQL Server and much more! <br/><br/>
+I hold a technical degree in Systems Analysis and Development from ETEC, where I had the opportunity to dive into subjects like Java, PHP, C#, Object-Oriented Programming, SQL Server, and many other foundational topics that shaped my passion for technology.
 
-Currently, I am in the process of graduating in Systems Analysis and Development from digital college Descomplica, acquiring even more knowledge and specializing in the entire universe of web development. <br><br/>
+Currently, I am pursuing a degree in Systems Analysis and Development at Descomplica, where I continue to expand my skills and specialize in the fascinating world of web development. I'm deeply committed to learning, growing, and building solutions that make a difference. <br><br/>
 
-• Reach me anytime: gustavo.vfavero@gmail.com<br/><br/>
-</p>
+## 🛠️ Tech Stack
 
-## Technologies and tools I use and study
-       
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,graphql,npm,vscode,docker,git,github)](https://skillicons.dev)
-
-## Technologies and tools that I have already had contact with
-[![My Skills](https://skillicons.dev/icons?i=java,bootstrap,kotlin,androidstudio,aws,azure,cpp,cs,dotnet,elixir,electron,figma,ai,yarn,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,jest,graphql,npm,vscode,docker,git,github)](https://skillicons.dev)
 
 <table align="center">
   <tr>
