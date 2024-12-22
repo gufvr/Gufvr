@@ -1,10 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Favero</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gufvr&color=yellow" alt="Profile views" /> </p>
-<h3 align="center">
-        Every day I strive to become an exemplary professional dedicated to boosting my career in web development!
-</h3>
 
-- 🔥 Web Developer
+- 👨🏻‍💻 Web Developer
 - 🔭 I’m currently working at [Eduzz](https://github.com/eduzz)
 - Reach me anytime: gustavo.vfavero@gmail.com
 
