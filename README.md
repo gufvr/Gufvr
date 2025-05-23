@@ -23,6 +23,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-favero-dev/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gufvr)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22176711)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.vfavero@gmail.com)
+
 
 ---
 
@@ -76,17 +78,10 @@
 - 🔗 [Gen Pass](https://github.com/gufvr/gen-pass) – Mobile app for generating secure passwords.  
 - 🔗 [Pomodoru](https://github.com/gufvr/pomodoru) – Simple and effective Pomodoro timer web app.  
 - 🔗 [Coffee Delivery](https://github.com/gufvr/coffee-delivery) – Coffee delivery app made with React and TypeScript.
-- 🔗 [QRCode](https://github.com/gufvr/qrcode) - QR Code generator developed in Node.js, designed to create custom QR codes and passwords easily and efficiently.
+- 🔗 [QRCode](https://github.com/gufvr/qrcode) – QR Code generator developed in Node.js, designed to create custom QR codes and passwords easily and efficiently.
 
 ---
 
 <p align="center">
   Growing one push at a time. ☕
 </p>
-
----
-
-📫 **Fale comigo**  
-- **E-mail:** gustavo.vfavero@gmail.com  
-- **LinkedIn:** [linkedin.com/in/gustavo-favero-dev](https://www.linkedin.com/in/gustavo-favero-dev/)  
-- **Dev.to:** [dev.to/gufvr](https://dev.to/gufvr)
