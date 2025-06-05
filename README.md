@@ -14,7 +14,7 @@
 - 🌱 Currently learning and exploring **Docker, Testing (Jest/Playwright), and Clean Architecture.**
 - 🧠 Focused on **Node.js**, API development, async programming, and backend systems.
 - 🎯 Career goal: become a backend specialist with a strong understanding of software architecture and cloud infrastructure.
-- 📫 Reach me at **gustavo.vfavero@gmail.com**
+- 📫 Reach me at **gu.fvrr@gmail.com**
 
 ---
 
@@ -79,6 +79,12 @@
 - 🔗 [Pomodoru](https://github.com/gufvr/pomodoru) – Simple and effective Pomodoro timer web app.  
 - 🔗 [Coffee Delivery](https://github.com/gufvr/coffee-delivery) – Coffee delivery app made with React and TypeScript.
 - 🔗 [QRCode](https://github.com/gufvr/qrcode) – QR Code generator developed in Node.js, designed to create custom QR codes and passwords easily and efficiently.
+
+---
+
+### 🛠️ Services Provided
+
+- 🔗[MB Fisioterapeuta](https://github.com/gufvr/mb-fisioterapeuta) - Website to publicize information, services and contact channels for the physiotherapist, facilitating patient access.
 
 ---
 
