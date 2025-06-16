@@ -1,5 +1,5 @@
 <h1 align="center">Gustavo Favero</h1>
-<h3 align="center">Full Stack & Mobile Web Developer</h3>
+<h3 align="center">Full Stack & Mobile Developer</h3>
 
 <p align="center">
   Passionate about building robust and scalable web applications.<br/>
