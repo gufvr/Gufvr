@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  Atualmente trabalho na  e estou sempre em busca de aprender e evoluir como desenvolvedor.
+  Atualmente trabalho na <a href="https://www.eduzz.com/" target="_blank">Eduzz</a>, sempre em busca de aprender e evoluir como desenvolvedor.
 </p>
 
 ---
