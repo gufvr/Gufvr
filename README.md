@@ -1,24 +1,22 @@
 <h1 align="center">Gustavo Favero</h1>
-<h3 align="center">Full Stack & Mobile Developer</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  Passionate about building robust and scalable web applications.<br/>
-  Currently working at <a href="https://www.eduzz.com/" target="_blank">Eduzz Tecnologia</a> and focused on improving my back-end skills.
+  Atualmente trabalho na  e estou sempre em busca de aprender e evoluir como desenvolvedor.
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre mim
 
-- 🔧 Working as a Support Analyst at **Eduzz Tecnologia**, supporting tech operations and problem-solving.
-- 🌱 Currently learning and exploring **Docker, Testing (Jest/Playwright), and Clean Architecture.**
-- 🧠 Focused on **Node.js**, API development, async programming, and backend systems.
-- 🎯 Career goal: become a backend specialist with a strong understanding of software architecture and cloud infrastructure.
-- 📫 Reach me at **gu.fvrr@gmail.com**
+- 🔧 Como Analista de Suporte N1 na <a href="https://www.eduzz.com/" target="_blank">Eduzz</a>, colaborando com times de diferentes áreas para fortalecer a experiência do cliente.
+- 🌱 Estudando e explorando **sistemas de IA, Automação, Testes e Clean Architecture.**
+- 🧠 Focado em **Node.js**, APIs, programação assíncrona e sistemas de backend.
+- 📫 Contato: **gu.fvrr@gmail.com**
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-favero-dev/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gufvr)
@@ -28,7 +26,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias
 
 **🖥️Back-end:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -47,11 +45,11 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Databases:**  
+**Bancos de dados:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Others:**  
+**Ferramentas:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -64,30 +62,20 @@
 
 ---
 
-### 📚 Currently Learning
+### 💡 Projetos pessoais
 
-- **Docker** & Containerization  
-- **Software Testing** (Unit, Integration & E2E)  
-- **Clean Architecture & Design Patterns**  
-- **Cloud basics (AWS/Azure)**  
-
----
-
-### 💡 Personal Projects
-
-- 🔗 [Gen Pass](https://github.com/gufvr/gen-pass) – Mobile app for generating secure passwords.  
-- 🔗 [Pomodoru](https://github.com/gufvr/pomodoru) – Simple and effective Pomodoro timer web app.  
-- 🔗 [Coffee Delivery](https://github.com/gufvr/coffee-delivery) – Coffee delivery app made with React and TypeScript.
-- 🔗 [QRCode](https://github.com/gufvr/qrcode) – QR Code generator developed in Node.js, designed to create custom QR codes and passwords easily and efficiently.
+- 🔗 [Gen Pass](https://github.com/gufvr/gen-pass) – App mobile para geração de senhas seguras.  
+- 🔗 [Pomodoru](https://github.com/gufvr/pomodoru) – Timer Pomodoro simples e prático para web.  
+- 🔗 [Coffee Delivery](https://github.com/gufvr/coffee-delivery) – App de delivery de cafés feito com React e TypeScript.
+- 🔗 [QRCode](https://github.com/gufvr/qrcode) – Gerador de QR Codes feito em Node.js, com foco em simplicidade e eficiência.
 
 ---
 
-### 🛠️ Services Provided
+### 🛠️ Projetos para clientes
 
-- 🔗[MB Fisioterapeuta](https://github.com/gufvr/mb-fisioterapeuta) - Website to publicize information, services and contact channels for the physiotherapist, facilitating patient access.
+- 🔗[MB Fisioterapeuta](https://github.com/gufvr/mb-fisioterapeuta) - Site para divulgação de serviços e contato, facilitando o acesso dos pacientes.
 
----
 
 <p align="center">
-  Growing one push at a time. ☕
+  Crescendo um commit de cada vez ☕
 </p>
