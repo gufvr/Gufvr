@@ -5,7 +5,7 @@
 
 ### 🚀 About me
 
-- 🌱 Studying and exploring AI, Automation, Testing and Clean Architecture systems.**
+- 🌱 Studying and exploring AI, Automation, Testing and Clean Architecture systems.
 - 🧠 Focused on **Node.js**, APIs, asynchronous programming and backend systems.
 
 ---
