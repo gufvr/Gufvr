@@ -1,5 +1,5 @@
 <h1 align="center">Gustavo Favero</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h2 align="center">Desenvolvedor Full Stack</h2>
 
 ---
 
@@ -15,7 +15,6 @@
 
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gufvr)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22176711)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gu.fvrr@gmail.com)
 
 
