@@ -7,7 +7,6 @@
 
 - 🌱 Estudando e explorando **sistemas de IA, Automação, Testes e Clean Architecture.**
 - 🧠 Focado em **Node.js**, APIs, programação assíncrona e sistemas de backend.
-- 📫 Contato: **gu.fvrr@gmail.com**
 
 ---
 
