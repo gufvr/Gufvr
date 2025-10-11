@@ -1,25 +1,16 @@
-<h1 align="center">Gustavo Favero</h1>
-<h2 align="center">Desenvolvedor Full Stack</h2>
+<h1>Gustavo Favero</h1>
+<h3>Full Stack Developer</h3>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About me
 
-- 🌱 Estudando e explorando **sistemas de IA, Automação, Testes e Clean Architecture.**
-- 🧠 Focado em **Node.js**, APIs, programação assíncrona e sistemas de backend.
-
----
-
-### 🌐 Conecte-se comigo
-
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gufvr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gu.fvrr@gmail.com)
-
+- 🌱 Studying and exploring AI, Automation, Testing and Clean Architecture systems.**
+- 🧠 Focused on **Node.js**, APIs, asynchronous programming and backend systems.
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 **🖥️Back-end:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -36,11 +27,11 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Bancos de dados:**  
+**Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Ferramentas:**  
+**Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -53,20 +44,20 @@
 
 ---
 
-### 💡 Projetos pessoais
+### 💡 Personal Projects
 
-- 🔗 [Gen Pass](https://github.com/gufvr/gen-pass) – App mobile para geração de senhas seguras.  
-- 🔗 [Pomodoru](https://github.com/gufvr/pomodoru) – Timer Pomodoro simples e prático para web.  
-- 🔗 [Coffee Delivery](https://github.com/gufvr/coffee-delivery) – App de delivery de cafés feito com React e TypeScript.
-- 🔗 [QRCode](https://github.com/gufvr/qrcode) – Gerador de QR Codes feito em Node.js, com foco em simplicidade e eficiência.
+- 🔗 [Gen Pass](https://github.com/gufvr/gen-pass) – Mobile app for generating secure passwords.  
+- 🔗 [Pomodoru](https://github.com/gufvr/pomodoru) – Pomodoro timer.  
+- 🔗 [Coffee Delivery](https://github.com/gufvr/coffee-delivery) – Coffee delivery app.
+- 🔗 [QRCode](https://github.com/gufvr/qrcode) – QR Code generator, with a focus on simplicity and efficiency.
 
 ---
 
-### 🛠️ Projetos para clientes
+### 🛠️ Projects for Costumers
 
-- 🔗[MB Fisioterapeuta](https://github.com/gufvr/mb-fisioterapeuta) - Site para divulgação de serviços e contato, facilitando o acesso dos pacientes.
+- 🔗[MB Fisioterapeuta](https://github.com/gufvr/mb-fisioterapeuta) - Website for advertising services and contact details, facilitating patient access.
 
 
 <p align="center">
-  Crescendo um commit de cada vez ☕
+  Growing one commit at a time ☕
 </p>
