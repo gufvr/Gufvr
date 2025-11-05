@@ -56,6 +56,7 @@
 ### 🛠️ Projects for Costumers
 
 - 🔗[MB Fisioterapeuta](https://github.com/gufvr/mb-fisioterapeuta) - Website for advertising services and contact details, facilitating patient access.
+- 🔗[Serralheiro Eduardo Rodrigues](https://github.com/gufvr/eduardo-serralheiro) - Website developed for **Eduardo Rodrigues**, a professional metalworker, focused on advertising services and centralizing contact channels
 
 
 <p align="center">
