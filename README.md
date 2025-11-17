@@ -55,8 +55,8 @@
 
 ### 🛠️ Projects for Costumers
 
-- 🔗[MB Fisioterapeuta](https://github.com/gufvr/mb-fisioterapeuta) - Website for advertising services and contact details, facilitating patient access.
-- 🔗[Serralheiro Eduardo Rodrigues](https://github.com/gufvr/eduardo-serralheiro) - Website for promoting services and contact details
+- 🔗 [MB Fisioterapeuta](https://github.com/gufvr/mb-fisioterapeuta) - Website for advertising services and contact details, facilitating patient access.
+- 🔗 [Serralheiro Eduardo Rodrigues](https://github.com/gufvr/eduardo-serralheiro) - Website for promoting services and contact details.
 
 
 <p align="center">
