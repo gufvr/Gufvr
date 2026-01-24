@@ -6,15 +6,11 @@
 - 🧠 Experienced with **Node.js**, APIs, asynchronous programming, and backend systems.
 - 💡 Passionate about building clean, efficient, and scalable apps.
 
----
-
 ### 💡 Personal Projects
 
 - 🔗 [Gen Pass](https://github.com/gufvr/gen-pass) – Mobile app for generating secure passwords.  
 - 🔗 [Coffee Delivery](https://github.com/gufvr/coffee-delivery) – Coffee delivery app.
 - 🔗 [QRCode](https://github.com/gufvr/qrcode) – QR Code generator, simple and efficient.
-
----
 
 ### 🛠️ Projects for Costumers
 
