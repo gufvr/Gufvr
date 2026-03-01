@@ -19,7 +19,7 @@
 <!-- Apresentação -->
 ## Gustavo Favero
 
-<p>Buscando minha primeira oportunidade como desenvolvedor Back-End (Node.js), meu portfólio reflete meu compromisso com a prática intensiva. Cada projeto aqui é fruto da minha imersão no desenvolvimento de software, aplicando conceitos fundamentais em situações que replicam desafios reais, como se estivesse entregando um produto em um ambiente profissional.</p>
+<p>Buscando minha primeira oportunidade como desenvolvedor Back-End. Meu portfólio reflete meu compromisso com a prática intensiva. Cada projeto aqui é fruto da minha imersão no desenvolvimento de software, aplicando conceitos fundamentais em situações que replicam desafios reais, como se estivesse entregando um produto em um ambiente profissional.</p>
 <p>Por favor, não se esqueça de conferir também os meus repositórios aqui no GitHub!</p>
 
 ---
