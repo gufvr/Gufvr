@@ -70,7 +70,7 @@
   <a href="https://github.com/gufvr/qrcode">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=qrcode&theme=dracula&hide_border=true&show_owner=false" />
 </a>
-<a href="https://github.com/gufvr/pomodoru">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=pomodoru&theme=dracula&hide_border=true&show_owner=false" />
+<a href="https://github.com/gufvr/ClayTech">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=ClayTech&theme=dracula&hide_border=true&show_owner=false" />
 </a>
 </div>
