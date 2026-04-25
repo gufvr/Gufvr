@@ -37,40 +37,42 @@
 <p>・Atuar como <strong>Desenvolvedor Backend Node.js</strong></p>
 
 ---
+### 🚀 Atualmente estudando (Stack principal)
 
-**Atualmente estudando:**
+<div align="center">
 
-<div style="display: flex;">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+| Backend | Mobile | Banco de Dados | Banco de Dados | DevOps |
+|---|---|---|---|---|
+| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" /> |
+
 </div>
-
-**Tenho interesse:**
-
-<div style="display: flex;">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
 
 ---
 
+### 🧪 Tenho interesse / explorando
+
+<div align="center">
+
+| Linguagem | Runtime | Ferramenta |
+|---|---|---|
+| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" /> |
+
 </div>
 
-<div style="display: flex;">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gufvr&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=dracula&hide_border=true"/>
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gufvr&theme=dracula&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en"/>
+---
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gufvr&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=dracula&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gufvr&theme=dracula&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=en"/>
 </div>
 
-### Repositórios em destaque
+### 🚀 Repositórios em destaque
 
-<div style="display: flex;">
+<div align="center">
   <a href="https://github.com/gufvr/qrcode">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=qrcode&theme=dracula&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/gufvr/ClayTech">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=ClayTech&theme=dracula&hide_border=true&show_owner=false" />
-</a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=qrcode&theme=dracula&hide_border=true&show_owner=false" />
+  </a>
+  <a href="https://github.com/gufvr/ClayTech">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=ClayTech&theme=dracula&hide_border=true&show_owner=false" />
+  </a>
 </div>
