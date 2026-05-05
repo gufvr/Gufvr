@@ -19,7 +19,10 @@
 <!-- Apresentação -->
 ## Gustavo Favero
 
-<p>Buscando minha primeira oportunidade como desenvolvedor de software. Meu portfólio reflete meu compromisso com a prática intensiva. Cada projeto aqui é fruto da minha imersão no desenvolvimento, aplicando conceitos fundamentais em situações que replicam desafios reais, como se estivesse entregando um produto em um ambiente profissional.</p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em suporte técnico, análise de processos e metodologias ágeis. Atualmente focado em desenvolvimento back-end com Node.js. utilizando JavaScript e TypeScript, enquanto aprofundo conhecimentos em APIs, banco de dados e boas práticas de desenvolvimento.</p>
+
+<p>Gosto de aprender construindo projetos reais, explorando desde a interface até integração com serviços, versionamento com Git e organização de código. Também tenho interesse em áreas como QA, automação, DevOps e infraestrutura Linux.</p>
+<p>Busco evoluir constantemente através de estudos práticos, documentação bem estruturada e desenvolvimento de projetos que gerem experiência aplicável no dia a dia.</p>
 <p>Por favor, não se esqueça de conferir também os meus repositórios aqui no GitHub!</p>
 
 ---
@@ -33,31 +36,22 @@
 
 ### Objetivos
 
-<p>・Adquirir experiências práticas no mercado de trabalho;</p>
-<p>・Atuar como <strong>Desenvolvedor Backend Node.js</strong></p>
+- Adquirir experiências práticas no mercado de trabalho
+- Atuar como <strong>Desenvolvedor Backend Node.js</strong>
 
 ---
-### 🚀 Atualmente estudando (Stack principal)
+### 🚀 Tecnologias e ferramentas
 
-<div align="center">
-
-| Backend | Mobile | Banco de Dados | Banco de Dados | DevOps |
-|---|---|---|---|---|
-| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" /> |
-
-</div>
-
----
-
-### 🧪 Tenho interesse / explorando
-
-<div align="center">
-
-| Linguagem | Runtime | Ferramenta |
-|---|---|---|
-| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" /> | <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" /> |
-
-</div>
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Node.js
+- Git & GitHub
+- SQL e NoSQL
+- Docker
+- Linux
+- Scrum & Metodologias Ágeis
 
 ---
 
