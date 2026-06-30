@@ -14,8 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=gufvr&label=Visualizações%20do%20perfil&color=800080&style=for-the-badge">
 </p>
 
----
-
 # Gustavo Favero
 
 Desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas.
