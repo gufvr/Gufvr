@@ -1,142 +1,85 @@
 <p align="center">
-  <!-- Badge - LinkedIn -->
   <a href="https://www.linkedin.com/in/gustavo-favero-dev">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <!-- Badge - Email -->
+
   <a href="mailto:gustavo.vfavero@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gufvr&label=Visualizações%20do%20perfil&color=800080&style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2500&color=BD93F9&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Node.js+%7C+TypeScript+%7C+React+Native;Always+building+and+learning." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gufvr&style=for-the-badge&color=8A2BE2"/>
 </p>
 
 # Gustavo Favero
 
 Desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas.
 
-Tenho experiência como Analista de Suporte N1, atuando com atendimento técnico, análise de incidentes, melhoria de processos e metodologias ágeis (Scrum). Atualmente concentro meus estudos e projetos no desenvolvimento Back-end com Node.js, utilizando JavaScript e TypeScript para construir APIs, integrar serviços e desenvolver aplicações escaláveis.
+Atualmente construo projetos com **Node.js**, **TypeScript** e **React Native**, buscando desenvolver aplicações completas, compreender arquitetura de software e aplicar boas práticas de desenvolvimento.
 
-Também desenvolvo projetos com React e React Native, buscando compreender todo o ciclo de desenvolvimento de software, desde a interface até o back-end, banco de dados, versionamento, testes e deploy.
-
-Tenho interesse em arquitetura de software, APIs REST, bancos de dados SQL e NoSQL, Docker, Linux e boas práticas de desenvolvimento. Além disso, estudo áreas complementares como QA, automação de testes, DevOps e infraestrutura, ampliando minha visão sobre todo o ciclo de vida de uma aplicação.
-
-Meu objetivo é transformar conhecimento em experiência prática por meio de projetos, documentação técnica e aprendizado contínuo.
-
-Fique à vontade para explorar meus repositórios. Eles representam minha evolução como desenvolvedor e os projetos que utilizo para experimentar tecnologias, aplicar boas práticas e consolidar conhecimentos.
+Minha experiência profissional como Analista de Suporte N1 me proporcionou vivência com resolução de incidentes, análise de processos, atendimento técnico e trabalho em equipes ágeis.
 
 ---
 
-## 🌎 README disponível em
+## 🌎 README
 
-<table>
-<tr>
-<td align="center">
-<a href="README_ENG.md">🇺🇸 English</a>
-</td>
-</tr>
-</table>
+🇧🇷 Português (atual)
+
+🇺🇸 [English](README_ENG.md)
 
 ---
 
-## 🎯 Objetivos
+## 💻 Stack
 
-- Atuar como Desenvolvedor Back-end Node.js
-- Construir aplicações completas para fortalecer meu portfólio
-- Aprofundar conhecimentos em arquitetura de software, APIs e bancos de dados
-- Evoluir em QA, automação de testes, DevOps e infraestrutura
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,reactnative,postgres,mysql,mongodb,docker,git,github,linux,vscode"/>
 
-## 🚀 Tecnologias e Ferramentas
-
-### Linguagens
-
-- JavaScript
-- TypeScript
-
-### Front-end
-
-- React
-- React Native
-
-### Back-end
-
-- Node.js
-- Express
-
-### Banco de Dados
-
-- SQL
-- NoSQL
-
-### Ferramentas
-
-- Git
-- GitHub
-- Docker
-- Linux
-
-### Metodologias
-
-- Scrum
-- Kanban
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente
 
-- Node.js
-- TypeScript
-- React Native
-- Arquitetura de APIs REST
-- Docker
-- Linux
-- Testes automatizados
-- Clean Code
+- 🚀 Node.js
+- 📦 APIs REST
+- 🏗 Arquitetura de Software
+- ⚛ React Native
+- ✅ Testes
 
 ---
 
-## 💡 Áreas de Interesse
+## 📊 GitHub
 
-- Desenvolvimento Back-end
-- APIs REST
-- Arquitetura de Software
-- Qualidade de Software (QA)
-- Automação de Testes
-- DevOps
-- Infraestrutura
-- Cloud Computing
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gufvr&theme=dracula&hide_border=true&show_icons=true&count_private=true&hide=issues,prs,contribs"/>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gufvr&layout=compact&custom_title=Linguagens%20mais%20utilizadas&theme=dracula&hide_border=true"
-    height="170"
-  />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gufvr&layout=compact&theme=dracula&hide_border=true"/>
 
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gufvr&theme=dracula&hide=prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&locale=pt-br"
-    height="170"
-  />
-</div>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gufvr&theme=dracula&hide_border=true"/>
+</p>
 
 ---
 
-## ⭐ Repositórios em Destaque
+## ⭐ Projetos recentes
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/gufvr/qrcode">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=qrcode&theme=dracula&hide_border=true&show_owner=false" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=qrcode&theme=dracula&hide_border=true"/>
 </a>
 
 <a href="https://github.com/gufvr/ClayTech">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=ClayTech&theme=dracula&hide_border=true&show_owner=false" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=ClayTech&theme=dracula&hide_border=true"/>
 </a>
 
-</div>
+</p>
