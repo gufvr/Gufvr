@@ -52,34 +52,11 @@ My professional experience as a **Technical Support Analyst (L1)** has given me 
 - ⚛ React Native
 - ✅ Testing
 
----
-
-## 📊 GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gufvr&theme=dracula&hide_border=true&show_icons=true&count_private=true&hide=issues,prs,contribs"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gufvr&layout=compact&theme=dracula&hide_border=true"/>
-
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gufvr&theme=dracula&hide_border=true"/>
 </p>
-
----
-
-## ⭐ Recent Projects
-
-<p align="center">
-
-<a href="https://github.com/gufvr/qrcode">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=qrcode&theme=dracula&hide_border=true"/>
-</a>
-
-<a href="https://github.com/gufvr/ClayTech">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gufvr&repo=ClayTech&theme=dracula&hide_border=true"/>
 </a>
 
 </p>
