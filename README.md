@@ -55,8 +55,5 @@ Minha experiÃªncia profissional como Analista de Suporte N1 me proporcionou vivÃ
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gufvr&theme=dracula&hide_border=true"/>
-</p>
-</a>
-
+  <img src="https://github-readme-activity-graph-tan-one.vercel.app/graph?username=gufvr&theme=dracula&hide_border=true"/>
 </p>
