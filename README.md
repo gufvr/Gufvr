@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2500&color=BD93F9&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Node.js+%7C+TypeScript+%7C+React+Native;Always+building+and+learning." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2500&color=BD93F9&center=true&vCenter=true&width=750&lines=Software+Quality+%26+QA;Test+Automation+%7C+JavaScript+%7C+TypeScript;Building%2C+testing+and+improving." />
 </p>
 
 <p align="center">
@@ -18,11 +18,13 @@
 
 # Gustavo Favero
 
-Desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas.
+Formado em **Análise e Desenvolvimento de Sistemas**, com experiência profissional em suporte técnico, análise de incidentes, processos e melhoria contínua.
 
-Atualmente construo projetos com **Node.js**, **TypeScript** e **React Native**, buscando desenvolver aplicações completas, compreender arquitetura de software e aplicar boas práticas de desenvolvimento.
+Atualmente direciono meu desenvolvimento profissional para **Qualidade de Software e QA**, aprofundando conhecimentos em **testes manuais, automação de testes, APIs e desenvolvimento web**.
 
-Minha experiência profissional como Analista de Suporte N1 me proporcionou vivência com resolução de incidentes, análise de processos, atendimento técnico e trabalho em equipes ágeis.
+Utilizo minha experiência com **JavaScript, TypeScript e desenvolvimento de software** para compreender aplicações além da interface, criar cenários de teste mais completos, investigar falhas e desenvolver automações voltadas à qualidade.
+
+Minha experiência como **Analista de Suporte** também contribuiu para desenvolver uma visão orientada à investigação de problemas, análise de comportamento de sistemas, documentação e experiência do usuário.
 
 ---
 
@@ -34,25 +36,35 @@ Minha experiência profissional como Analista de Suporte N1 me proporcionou viv�
 
 ---
 
-## 💻 Stack
+## 💻 Tecnologias e Ferramentas
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,reactnative,postgres,mysql,mongodb,docker,git,github,linux,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,postgres,mysql,mongodb,docker,git,github,linux,vscode"/>
 </p>
+
+### 🧪 Qualidade e Testes
+
+- Cypress
+- Playwright
+- Testes manuais
+- Testes automatizados
+- Testes de API
+- Planejamento e documentação de cenários de teste
+- Análise e reprodução de bugs
 
 ---
 
-## 📚 Atualmente
+## 📚 Foco atual
 
-- 🚀 Node.js
-- 📦 APIs REST
-- 🏗 Arquitetura de Software
-- ⚛ React Native
-- ✅ Testes
+- 🧪 Qualidade de Software e QA
+- 🤖 Automação de testes
+- 🌐 Testes de aplicações Web
+- 🔌 Testes de APIs REST
+- 📝 Documentação de testes e bugs
+- 💻 JavaScript e TypeScript aplicados a testes
+- 🔍 Investigação e análise de falhas
 
-</p>
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph-tan-one.vercel.app/graph?username=gufvr&theme=dracula&hide_border=true"/>
