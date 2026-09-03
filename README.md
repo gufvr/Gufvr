@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=gufvr&style=for-the-badge&color=8A2BE2"/>
 </p>
 
-# Gustavo Favero
-
 Formado em **Análise e Desenvolvimento de Sistemas**, com experiência profissional em suporte técnico, análise de incidentes, processos e melhoria contínua.
 
 Atualmente direciono meu desenvolvimento profissional para **Qualidade de Software e QA**, aprofundando conhecimentos em **testes manuais, automação de testes, APIs e desenvolvimento web**.
