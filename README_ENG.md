@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=gufvr&style=for-the-badge&color=8A2BE2"/>
 </p>
 
-# Gustavo Favero
-
 Graduated in **Systems Analysis and Development**, with professional experience in technical support, incident analysis, process improvement, and continuous improvement.
 
 I am currently focusing my career on **Software Quality and QA**, expanding my knowledge in **manual testing, test automation, APIs, and web development**.
