@@ -12,9 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2500&color=BD93F9&center=true&vCenter=true&width=750&lines=Software+Quality+%26+QA;Test+Automation+%7C+JavaScript+%7C+TypeScript;Building%2C+testing+and+improving." />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gufvr&style=for-the-badge&color=8A2BE2"/>
-</p>
 
 Formado em **Análise e Desenvolvimento de Sistemas**, com experiência profissional em suporte técnico, análise de incidentes, processos e melhoria contínua.
 
