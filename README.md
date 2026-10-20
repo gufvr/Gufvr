@@ -154,6 +154,4 @@ Quality Assurance
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gufvr&color=bd93f9&style=flat-square&label=Profile+Views)
-
 </div>
